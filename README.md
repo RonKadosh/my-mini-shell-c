@@ -31,6 +31,10 @@ make
 ./myshell
 ```
 
+## Environment and Compilation
+- Operating System: **Linux**
+- Compilation Target: **32-bit** architecture
+
 ## Notes
 - This project uses a helper parser (LineParser.h) to parse command-line input, which written by Lab's TA.
 - This is a basic educational shell and not suitable for production use.
